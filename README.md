@@ -2,6 +2,8 @@
 
 This repository contains the **frontend code** for the SHL Assessment Recommendation System. It is built using **Streamlit** and provides an interactive UI where users can enter a job description or natural language query to receive relevant SHL assessment suggestions.
 
+live link: https://shlfrontend-1.streamlit.app/
+
 > 🛰️ The backend logic and recommendation engine is hosted separately in the https://github.com/BaisakhiBehera/SHL_Backend repository, which is exposed via a REST API.
 
 ## 🌐 Hosted On
